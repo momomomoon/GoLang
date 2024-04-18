@@ -1,0 +1,21 @@
+
+CH00: Install, Hello Go!
+go mod init goprojecthello: 모듈생성
+go build: 빌드(컴파일)
+.\goprojecthello.exe: 빌드된 실행파일 실행
+
+CH01: 컴퓨터 원리
+0, 1 표현
+트렌지스터 NPN 
+1바이트 8비트,1키로 1024바이트
+1메가 1024키로, 1기가 1024메가
+1테라 1024 기가, 1페타 1024 테라
+1제타 1024 페타
+
+논리소자: AND OR XOR NOT
+CPU - RAM - HDD
+16기가 램 메모리카드의 트랜지스터가 몇 개가 있을까?
+16 * 1024 * 1024 * 1024 * 8 (기가 키로 바이트 비트)
+
+CH03: Hello Go World
+
