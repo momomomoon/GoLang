@@ -1,0 +1,7 @@
+
+CH00: Install, Hello Go!
+go mod init goprojecthello: 모듈생성
+go build: 빌드(컴파일)
+.\goprojecthello.exe: 빌드된 실행파일 실행
+
+CH01:
